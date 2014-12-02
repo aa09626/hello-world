@@ -25,6 +25,11 @@
     <preference name="exit-on-suspend" value="false" />
     <preference name="prerendered-icon" value="false" />
     
+    <feature name="http://api.phonegap.com/1.0/camera" />
+    <feature name="http://api.phonegap.com/1.0/file" />
+    <feature name="http://api.phonegap.com/1.0/geolocation" />
+    <feature name="http://api.phonegap.com/1.0/network" />
+    
     <preference name="android-installLocation" value="auto" />
     <preference name="BackgroundColor" value="0xff000000" />
     <preference name="KeepRunning" value="true" />
