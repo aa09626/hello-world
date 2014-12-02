@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.ajsoftware.lynda.samoca"
+    versionCode = "1"
+    version     = "1.0">
+<name>Need For Sport</name>
+<description>Find sport partners with Need For Sport</description>
+<author href="http://www.needforsport.com" email="support@alexatlani.com" Alex Atlani</author>
+</widget>
