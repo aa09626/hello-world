@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <head>
   <meta http-equiv="refresh" content="0; url=http://www.needforsport.com/en" />
+  <script>
+    document.addEventListener('deviceready', onDeviceReady);
+    function onDeviceReady() {
+            var success = function(status) {
+                alert('Message: ' + status);
+            }
+    
+            var error = function(status) {
+                alert('Error: ' + status);
+            }
+    
+            window.cache.clear( success, error );
+    }
+  </script>
 </head>
 <body>
 </body>
