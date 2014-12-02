@@ -22,4 +22,11 @@
     <preference name="webviewbounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="disallowOverscroll" value="true" />
+    <preference name="exit-on-suspend" value="false" />
+    <preference name="prerendered-icon" value="false" />
+    
+    <preference name="android-installLocation" value="auto" />
+    <preference name="BackgroundColor" value="0xff000000" />
+    <preference name="KeepRunning" value="true" />
+    
 </widget>
