@@ -34,6 +34,6 @@
     <feature name="http://api.phonegap.com/1.0/geolocation" />
     <feature name="http://api.phonegap.com/1.0/network" />
     
-    <gap:plugin name="com.sharinglabs.cordova.plugin.cache" />
+    <gap:plugin name="com.sharinglabs.cordova.plugin.cache" version="1.0.0" />
     
 </widget>
