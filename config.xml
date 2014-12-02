@@ -9,7 +9,7 @@
     
     <description>Find sport partners with Need For Sport</description>
     
-    <author href="http://www.needforsport.com" email="support@alexatlani.com" Alex Atlani</author>
+    <author href="http://www.needforsport.com" email="support@alexatlani.com">Alex Atlani</author>
 
     <gap:platform name="ios" />
     <gap:platform name="android" />
